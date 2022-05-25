@@ -1,2 +1,2 @@
-# prac-exam
+# Practice Questions on numerical methods
  
